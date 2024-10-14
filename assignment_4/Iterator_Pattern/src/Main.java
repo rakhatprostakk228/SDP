@@ -1,4 +1,3 @@
-// Демонстрация работы паттерна Итератор
 public class Main {
     public static void main(String[] args) {
         NameRepository nameRepository = new NameRepository();
