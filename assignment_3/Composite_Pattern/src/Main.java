@@ -10,7 +10,7 @@ public class Main {
         dir2.addComponent(file2);
         dir1.addComponent(dir2);
 
-        dir1.showDetails();
-        //dir2.showDetails();
+        //dir1.showDetails();
+        dir2.showDetails();
     }
 }
